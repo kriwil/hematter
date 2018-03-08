@@ -1,6 +1,6 @@
 # hematter
 
-A new Flutter project.
+Let's learn flutter!
 
 ## Getting Started
 
